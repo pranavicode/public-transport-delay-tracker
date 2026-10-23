@@ -1,0 +1,16 @@
+timetable_rows_read=15
+timetable_rows_valid=12
+timetable_rows_rejected=2
+timetable_duplicates_ignored=1
+live_rows_read=18
+live_rows_matched=9
+live_duplicates_superseded=2
+live_rejected_bad_field_count=1
+live_rejected_empty_field=1
+live_rejected_bad_confidence=1
+live_rejected_bad_stop_sequence=1
+live_rejected_bad_timestamp=1
+live_rejected_no_timetable_match=1
+live_rejected_stop_id_mismatch=1
+timetable_rows_without_live=3
+output_rows_written=9
